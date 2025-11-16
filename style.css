@@ -1,0 +1,29 @@
+button{
+    padding: 2mm;
+    background-color: rgb(155, 155, 155);
+    border: 20mm rgb(181, 181, 181);
+    font-size: 8mm;
+    position: relative;
+    top: 170px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+#notebookButton{
+    top: 250px;
+}
+
+#welcomeBoard{
+    position: absolute;
+    top: 40px;;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 50%;
+    height: 90px;
+    text-align: center;
+    align-content: center;
+    background-color: black;
+    color: white;
+    font-size: 55px;
+}
