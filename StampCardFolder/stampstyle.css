@@ -43,12 +43,12 @@ button{
         7px 7px 5px #000;
     position: relative;
     left: 20mm;
-    top: 5mm;
+    top: -5mm;
 }
 
 #stamps{
     position: relative;
-    top: 20mm;
+    top: 30mm;
     left: 50%;
     transform: translate(-50%, 0);
     height: 200mm;
